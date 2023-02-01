@@ -25,17 +25,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text                                                                                                       
-Python           7 hrs██████░░░░░░░░░░░░░░░░░░░   15.2 % 
-TypeScript   16 hrs   ██████████████░░░░░░░░░░░   34.7 % 
-Javascript     21 hrs █████████████████░░░░░░░░   45.6 % 
-SCSS          2 hrs   ██▒▒░░░░░░░░░░░░░░░░░░░░░   04.5 % 
-```
-<!--END_SECTION:waka-->
-
-
 ## Main Skill
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
